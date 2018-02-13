@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using DevEx.Models.DataGrid;
 
-namespace DevEx.Models
+namespace DevEx.Models.SampleData
 {
     public partial class DataGridEmployees
         {

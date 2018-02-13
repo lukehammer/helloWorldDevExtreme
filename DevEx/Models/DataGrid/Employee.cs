@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace DevEx.Models
+namespace DevEx.Models.DataGrid
 {
     public class Employee
     {
